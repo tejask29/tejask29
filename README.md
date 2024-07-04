@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Tejas Kulkarni 👋
+
+I am a passionate and experienced full-stack web developer with a strong interest in building full-stack applications and enthusiastic about crafting clean, efficient, and user-friendly code.
+
+- I'm currently looking to collaborate and work on open-source projects to learn more of the open source ecosystem.
 
 <!--
 **tejask29/tejask29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
